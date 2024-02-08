@@ -4,7 +4,6 @@
 
 <p align="center" width="150px">I'm a Technical Superior in Application Development from Mexico, currently studying the Multiplatform Software Engineering career. I have experience in both Frontend and Backend, and I'm passionate about developing innovative and functional solutions. I'm constantly seeking challenges that allow me to apply my skills and contribute to the success of projects.</p>
 
-<p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimevs&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Jaimevs&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Jaimevs&theme=chartreuse-dark"></p>
